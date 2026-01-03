@@ -27,3 +27,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-01-03T18:32:02 — Minor formatting cleanup
 - 2026-01-03T13:59:34 — Tidy up documentation wording
 - 2026-01-03T13:45:44 — Tidy up documentation wording
+- 2026-01-03T09:19:38 — Tweak layout
