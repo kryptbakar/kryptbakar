@@ -60,3 +60,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-01-09T17:00:00 — Clarify wording
 - 2026-01-11T19:47:37 — Small housekeeping update
 - 2026-01-11T16:16:04 — Small housekeeping update
+- 2026-01-11T10:42:15 — Update dependencies note
