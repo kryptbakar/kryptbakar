@@ -69,3 +69,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-01-11T16:55:15 — Update dependencies note
 - 2026-01-11T19:53:42 — Minor formatting cleanup
 - 2026-01-13T13:34:29 — Update notes
+- 2026-01-13T13:59:01 — Clarify wording
