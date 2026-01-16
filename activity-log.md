@@ -86,3 +86,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-01-16T13:22:21 — Tweak layout
 - 2026-01-16T10:33:00 — Fix a typo
 - 2026-01-16T17:40:30 — Fix a typo
+- 2026-01-16T11:54:35 — Reorganize section headings
