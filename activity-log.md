@@ -100,3 +100,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-01-18T16:31:07 — Polish README references
 - 2026-01-18T15:37:40 — Tidy up documentation wording
 - 2026-01-18T13:40:13 — Reorganize section headings
+- 2026-01-18T19:08:48 — Minor formatting cleanup
