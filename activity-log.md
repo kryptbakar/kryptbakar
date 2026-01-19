@@ -114,3 +114,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-01-19T13:49:21 — Fix a typo
 - 2026-01-19T10:48:54 — Clarify wording
 - 2026-01-19T18:54:22 — Review and tidy files
+- 2026-01-19T14:26:01 — Tweak layout
