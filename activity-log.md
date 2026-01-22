@@ -119,3 +119,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-01-22T17:12:11 — Refresh activity log
 - 2026-01-22T12:40:58 — Refresh activity log
 - 2026-01-22T10:22:39 — Refresh activity log
+- 2026-01-22T19:37:28 — Clarify wording
