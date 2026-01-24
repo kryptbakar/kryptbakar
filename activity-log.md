@@ -124,3 +124,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-01-24T14:02:15 — Routine maintenance
 - 2026-01-24T18:45:46 — Update project journal
 - 2026-01-24T13:20:37 — Tweak layout
+- 2026-01-24T19:39:09 — Polish README references
