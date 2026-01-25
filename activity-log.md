@@ -135,3 +135,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-01-24T12:23:43 — Reorganize section headings
 - 2026-01-24T19:54:07 — Fix a typo
 - 2026-01-24T14:58:26 — Update dependencies note
+- 2026-01-25T17:54:35 — Clarify wording
