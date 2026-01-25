@@ -138,3 +138,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-01-25T17:54:35 — Clarify wording
 - 2026-01-25T09:17:19 — Tidy up documentation wording
 - 2026-01-25T17:54:58 — Small housekeeping update
+- 2026-01-25T12:43:49 — Review and tidy files
