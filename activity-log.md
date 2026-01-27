@@ -163,3 +163,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-01-26T11:59:10 — Tidy up documentation wording
 - 2026-01-26T16:43:14 — Small housekeeping update
 - 2026-01-27T12:21:32 — Reorganize section headings
+- 2026-01-27T12:47:53 — Reorganize section headings
