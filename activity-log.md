@@ -179,3 +179,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-01-31T14:26:21 — Tweak layout
 - 2026-01-31T19:57:54 — Fix a typo
 - 2026-01-31T12:24:44 — Review and tidy files
+- 2026-01-31T10:05:12 — Polish README references
