@@ -184,3 +184,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-02-01T13:03:11 — Minor formatting cleanup
 - 2026-02-01T11:03:40 — Reorganize section headings
 - 2026-02-01T11:31:52 — Minor formatting cleanup
+- 2026-02-01T14:54:13 — Clarify wording
