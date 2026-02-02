@@ -211,3 +211,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-02-02T17:03:12 — Fix a typo
 - 2026-02-02T13:07:41 — Update dependencies note
 - 2026-02-02T15:45:43 — Update project journal
+- 2026-02-02T16:11:13 — Clarify wording
