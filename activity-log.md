@@ -200,3 +200,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-02-02T18:31:37 — Review and tidy files
 - 2026-02-02T14:27:35 — Fix a typo
 - 2026-02-02T13:04:09 — Clarify wording
+- 2026-02-02T17:16:03 — Clarify wording
