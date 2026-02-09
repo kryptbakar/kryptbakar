@@ -219,3 +219,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-02-09T13:47:26 — Reorganize section headings
 - 2026-02-09T16:48:58 — Polish README references
 - 2026-02-09T10:50:43 — Small housekeeping update
+- 2026-02-09T15:41:41 — Polish README references
