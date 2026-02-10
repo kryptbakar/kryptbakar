@@ -225,3 +225,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-02-09T09:20:18 — Clarify wording
 - 2026-02-10T16:00:17 — Update project journal
 - 2026-02-10T09:15:44 — Clarify wording
+- 2026-02-10T11:15:38 — Reorganize section headings
