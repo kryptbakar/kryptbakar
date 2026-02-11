@@ -238,3 +238,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-02-11T18:37:21 — Clarify wording
 - 2026-02-11T12:51:26 — Small housekeeping update
 - 2026-02-11T17:14:08 — Clarify wording
+- 2026-02-11T15:25:34 — Clarify wording
