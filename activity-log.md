@@ -229,3 +229,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-02-10T18:48:12 — Review and tidy files
 - 2026-02-11T10:30:33 — Clarify wording
 - 2026-02-11T14:09:07 — Fix a typo
+- 2026-02-11T17:12:19 — Clarify wording
