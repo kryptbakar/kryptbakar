@@ -235,3 +235,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-02-11T18:50:55 — Fix a typo
 - 2026-02-11T14:41:56 — Routine maintenance
 - 2026-02-11T11:27:31 — Minor formatting cleanup
+- 2026-02-11T18:37:21 — Clarify wording
