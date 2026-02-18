@@ -272,3 +272,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-02-18T19:59:04 — Minor formatting cleanup
 - 2026-02-18T13:26:17 — Update project journal
 - 2026-02-18T15:22:35 — Minor formatting cleanup
+- 2026-02-18T17:35:00 — Tidy up documentation wording
