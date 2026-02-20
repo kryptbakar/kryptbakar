@@ -283,3 +283,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-02-19T17:25:16 — Refresh activity log
 - 2026-02-20T19:47:21 — Small housekeeping update
 - 2026-02-20T17:55:37 — Polish README references
+- 2026-02-20T13:09:00 — Update notes
