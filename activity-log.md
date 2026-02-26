@@ -294,3 +294,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-02-26T12:57:50 — Reorganize section headings
 - 2026-02-26T16:49:15 — Routine maintenance
 - 2026-02-26T15:35:45 — Add a daily progress note
+- 2026-02-26T12:32:07 — Tidy up documentation wording
