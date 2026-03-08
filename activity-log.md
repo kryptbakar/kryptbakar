@@ -320,3 +320,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-03-06T19:29:02 — Tweak layout
 - 2026-03-08T18:08:22 — Minor formatting cleanup
 - 2026-03-08T12:38:14 — Update dependencies note
+- 2026-03-08T15:20:12 — Reorganize section headings
