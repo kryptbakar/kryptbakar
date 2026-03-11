@@ -330,3 +330,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-03-11T09:29:56 — Routine maintenance
 - 2026-03-11T18:55:24 — Small housekeeping update
 - 2026-03-11T14:07:34 — Small housekeeping update
+- 2026-03-11T09:30:19 — Polish README references
