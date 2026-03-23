@@ -366,3 +366,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-03-23T14:39:40 — Update dependencies note
 - 2026-03-23T10:20:09 — Clarify wording
 - 2026-03-23T14:44:26 — Update dependencies note
+- 2026-03-23T19:12:00 — Reorganize section headings
