@@ -362,3 +362,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-03-21T13:29:43 — Tidy up documentation wording
 - 2026-03-23T09:45:45 — Small housekeeping update
 - 2026-03-23T10:19:57 — Clarify wording
+- 2026-03-23T18:00:39 — Small housekeeping update
