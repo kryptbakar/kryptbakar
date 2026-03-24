@@ -374,3 +374,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-03-24T10:06:28 — Minor formatting cleanup
 - 2026-03-24T11:46:47 — Minor formatting cleanup
 - 2026-03-24T09:02:57 — Fix a typo
+- 2026-03-24T10:09:06 — Polish README references
