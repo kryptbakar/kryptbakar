@@ -381,3 +381,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-03-24T16:33:26 — Add a daily progress note
 - 2026-03-24T12:49:43 — Small housekeeping update
 - 2026-03-24T12:35:05 — Refresh activity log
+- 2026-03-25T09:42:05 — Clarify wording
