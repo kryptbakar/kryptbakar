@@ -398,3 +398,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-03-26T16:19:14 — Review and tidy files
 - 2026-03-26T14:18:41 — Update project journal
 - 2026-03-26T16:57:00 — Review and tidy files
+- 2026-03-26T15:11:31 — Update dependencies note
