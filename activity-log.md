@@ -411,3 +411,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-04-02T09:08:05 — Routine maintenance
 - 2026-04-02T10:24:31 — Refresh activity log
 - 2026-04-02T17:35:30 — Routine maintenance
+- 2026-04-02T19:30:44 — Clarify wording
