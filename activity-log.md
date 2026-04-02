@@ -414,3 +414,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-04-02T19:30:44 — Clarify wording
 - 2026-04-02T10:39:21 — Tweak layout
 - 2026-04-02T18:18:14 — Add a daily progress note
+- 2026-04-02T17:03:10 — Tidy up documentation wording
