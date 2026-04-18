@@ -440,3 +440,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-04-10T13:15:49 — Tidy up documentation wording
 - 2026-04-10T19:41:48 — Reorganize section headings
 - 2026-04-18T16:18:21 — Routine maintenance
+- 2026-04-18T19:54:27 — Update dependencies note
