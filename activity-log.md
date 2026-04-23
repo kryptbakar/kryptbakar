@@ -472,3 +472,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-04-23T12:58:27 — Polish README references
 - 2026-04-23T10:54:18 — Fix a typo
 - 2026-04-23T19:30:57 — Clarify wording
+- 2026-04-23T10:05:00 — Tweak layout
