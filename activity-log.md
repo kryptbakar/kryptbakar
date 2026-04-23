@@ -473,3 +473,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-04-23T10:54:18 — Fix a typo
 - 2026-04-23T19:30:57 — Clarify wording
 - 2026-04-23T10:05:00 — Tweak layout
+- 2026-04-23T15:33:46 — Update notes
