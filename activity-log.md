@@ -468,3 +468,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-04-23T16:41:40 — Update project journal
 - 2026-04-23T11:54:06 — Update project journal
 - 2026-04-23T17:27:06 — Tidy up documentation wording
+- 2026-04-23T18:46:50 — Reorganize section headings
