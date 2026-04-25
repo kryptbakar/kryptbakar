@@ -496,3 +496,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-04-25T18:51:14 — Review and tidy files
 - 2026-04-25T16:53:16 — Clarify wording
 - 2026-04-25T13:33:28 — Minor formatting cleanup
+- 2026-04-25T19:05:11 — Tidy up documentation wording
