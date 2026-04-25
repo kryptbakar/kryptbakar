@@ -492,3 +492,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-04-24T19:07:17 — Review and tidy files
 - 2026-04-24T17:21:19 — Add a daily progress note
 - 2026-04-25T14:33:51 — Review and tidy files
+- 2026-04-25T18:58:53 — Update dependencies note
