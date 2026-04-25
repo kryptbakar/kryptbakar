@@ -499,3 +499,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-04-25T19:05:11 — Tidy up documentation wording
 - 2026-04-25T17:10:12 — Reorganize section headings
 - 2026-04-25T10:29:38 — Review and tidy files
+- 2026-04-25T15:47:45 — Small housekeeping update
