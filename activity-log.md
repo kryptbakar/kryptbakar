@@ -520,3 +520,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-04-27T11:54:34 — Tweak layout
 - 2026-04-27T14:19:40 — Tweak layout
 - 2026-04-27T13:24:23 — Update notes
+- 2026-04-27T15:25:16 — Tidy up documentation wording
