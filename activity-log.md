@@ -523,3 +523,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-04-27T15:25:16 — Tidy up documentation wording
 - 2026-04-27T16:41:26 — Refresh activity log
 - 2026-04-27T17:42:46 — Update dependencies note
+- 2026-04-29T09:20:26 — Tweak layout
