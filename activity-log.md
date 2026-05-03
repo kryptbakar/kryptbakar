@@ -553,3 +553,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-05-01T18:59:26 — Update dependencies note
 - 2026-05-03T15:00:09 — Update project journal
 - 2026-05-03T17:08:57 — Polish README references
+- 2026-05-03T13:18:56 — Clarify wording
