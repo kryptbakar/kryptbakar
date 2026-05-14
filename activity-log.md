@@ -587,3 +587,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-05-14T19:04:35 — Refresh activity log
 - 2026-05-14T16:50:37 — Tweak layout
 - 2026-05-14T14:17:55 — Update notes
+- 2026-05-14T09:01:18 — Update dependencies note
