@@ -577,3 +577,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-05-14T12:09:03 — Update project journal
 - 2026-05-14T09:30:43 — Review and tidy files
 - 2026-05-14T19:42:44 — Polish README references
+- 2026-05-14T10:28:57 — Reorganize section headings
