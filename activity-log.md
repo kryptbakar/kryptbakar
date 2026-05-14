@@ -590,3 +590,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-05-14T09:01:18 — Update dependencies note
 - 2026-05-14T12:57:20 — Tidy up documentation wording
 - 2026-05-14T17:41:34 — Review and tidy files
+- 2026-05-14T16:34:48 — Tidy up documentation wording
