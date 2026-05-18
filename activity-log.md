@@ -595,3 +595,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-05-18T15:09:31 — Review and tidy files
 - 2026-05-18T17:26:36 — Update project journal
 - 2026-05-18T16:15:19 — Clarify wording
+- 2026-05-18T13:58:57 — Small housekeeping update
