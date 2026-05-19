@@ -605,3 +605,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-05-19T11:40:04 — Refresh activity log
 - 2026-05-19T17:39:01 — Clarify wording
 - 2026-05-19T13:19:54 — Tidy up documentation wording
+- 2026-05-19T13:04:34 — Small housekeeping update
