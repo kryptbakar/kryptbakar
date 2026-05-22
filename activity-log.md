@@ -622,3 +622,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-05-22T15:24:04 — Small housekeeping update
 - 2026-05-22T16:23:48 — Minor formatting cleanup
 - 2026-05-22T13:24:07 — Routine maintenance
+- 2026-05-22T13:19:58 — Polish README references
