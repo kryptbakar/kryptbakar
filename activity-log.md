@@ -636,3 +636,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-05-26T12:11:51 — Reorganize section headings
 - 2026-05-26T16:42:47 — Reorganize section headings
 - 2026-05-26T11:40:32 — Routine maintenance
+- 2026-05-26T09:05:28 — Polish README references
