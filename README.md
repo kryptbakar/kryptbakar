@@ -69,7 +69,7 @@ Industry : 2× Intern @ Thingtrax — Security Testing & Secure Software Dev
 <div align="center">
 
 <!-- ░░░ hand-authored animated result panel (./assets/secrecy.svg) ░░░ -->
-<img src="./assets/secrecy.svg" width="860" alt="DQN artificial-noise allocation: +0.299 bits/s/Hz secrecy gain" />
+<img src="secrecy.svg" width="860" alt="DQN artificial-noise allocation: +0.299 bits/s/Hz secrecy gain" />
 
 </div>
 
