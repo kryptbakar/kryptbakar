@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" font-family="'JetBrains Mono','Fira Code',ui-monospace,'SF Mono',Consolas,monospace" role="img" aria-label="Muhammad Abubakar — Cyber Security Researcher">
+  <defs>
+    <!-- ===== gradients ===== -->
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0"   stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#0b1411"/>
+      <stop offset="1"   stop-color="#08130c"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5ff08a"/>
+      <stop offset="1" stop-color="#1e8f4e"/>
+    </linearGradient>
+    <linearGradient id="rainFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0"    stop-color="#27ae60" stop-opacity="0"/>
+      <stop offset="0.35" stop-color="#27ae60" stop-opacity="0.55"/>
+      <stop offset="1"    stop-color="#9dffc0" stop-opacity="0.9"/>
+    </linearGradient>
+    <radialGradient id="vign" cx="0.5" cy="0.4" r="0.75">
+      <stop offset="0.55" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1"    stop-color="#000000" stop-opacity="0.55"/>
+    </radialGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+
+    <!-- scanline tile -->
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="4" fill="#000000" fill-opacity="0"/>
+      <rect width="4" height="1.4" fill="#000000" fill-opacity="0.22"/>
+    </pattern>
+    <!-- faint background grid -->
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#27ae60" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+
+    <!-- typewriter reveal clips -->
+    <clipPath id="clip1"><rect x="60" y="86"  width="0" height="20"><animate attributeName="width" from="0" to="430" dur="1s"  begin="0.3s" fill="freeze" calcMode="discrete" values="0;70;150;230;300;370;430"/></rect></clipPath>
+    <clipPath id="clip2"><rect x="60" y="250" width="0" height="20"><animate attributeName="width" from="0" to="640" dur="1.6s" begin="3.6s" fill="freeze" calcMode="discrete" values="0;120;250;380;500;600;640"/></rect></clipPath>
+
+    <style>
+      .blink   { animation: blink 1.05s steps(1) infinite; }
+      .matrix  { animation: fall linear infinite; }
+      .scanmv  { animation: scanmove 7s linear infinite; }
+      .flicker { animation: flick 5.5s ease-in-out infinite; }
+      .gl-r    { animation: glr 2.6s steps(2) infinite; }
+      .gl-c    { animation: glc 3.1s steps(2) infinite; }
+      .name    { animation: nameIn 0.9s cubic-bezier(.2,.8,.2,1) 2.2s both, hum 4s ease-in-out 3.2s infinite; }
+      .pulse   { animation: pulse 2.4s ease-in-out infinite; }
+      @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+      @keyframes fall  { from{transform:translateY(-140px)} to{transform:translateY(360px)} }
+      @keyframes scanmove { from{transform:translateY(-4px)} to{transform:translateY(0)} }
+      @keyframes flick { 0%,100%{opacity:.18} 47%{opacity:.18} 48%{opacity:.30} 49%{opacity:.16} 92%{opacity:.20} 93%{opacity:.34} }
+      @keyframes glr { 0%,92%,100%{transform:translate(0,0);opacity:0} 93%{transform:translate(-2.5px,1px);opacity:.85} 96%{transform:translate(2px,-1px);opacity:.7} }
+      @keyframes glc { 0%,90%,100%{transform:translate(0,0);opacity:0} 91%{transform:translate(2.5px,-1px);opacity:.8} 95%{transform:translate(-2px,1px);opacity:.6} }
+      @keyframes nameIn { from{opacity:0;transform:translateY(10px);letter-spacing:14px} to{opacity:1;transform:translateY(0);letter-spacing:2px} }
+      @keyframes hum   { 0%,100%{filter:drop-shadow(0 0 4px #27ae60)} 50%{filter:drop-shadow(0 0 12px #27ae60)} }
+      @keyframes pulse { 0%,100%{opacity:.5} 50%{opacity:1} }
+    </style>
+  </defs>
+
+  <!-- backdrop -->
+  <rect width="900" height="340" rx="14" fill="url(#bg)"/>
+  <rect width="900" height="340" rx="14" fill="url(#grid)"/>
+
+  <!-- matrix rain (behind terminal) -->
+  <g opacity="0.5" clip-path="url(#screenclip)">
+    <clipPath id="screenclip"><rect width="900" height="340" rx="14"/></clipPath>
+    <g font-size="15" fill="url(#rainFade)" font-family="monospace">
+      <g class="matrix" style="animation-duration:5.5s"   transform="translate(40,0)">  <text x="0" y="0">1 0 1 1 0 1 0 0 1</text></g>
+      <g class="matrix" style="animation-duration:7s;animation-delay:-2s" transform="translate(120,0)"><text x="0" y="0">x9 ff 27 ae 60 0d</text></g>
+      <g class="matrix" style="animation-duration:6s;animation-delay:-4s" transform="translate(210,0)"><text x="0" y="0">01001011 SNR</text></g>
+      <g class="matrix" style="animation-duration:8s;animation-delay:-1s" transform="translate(690,0)"><text x="0" y="0">DQN 0xCAFE</text></g>
+      <g class="matrix" style="animation-duration:6.5s;animation-delay:-3s" transform="translate(770,0)"><text x="0" y="0">10 11 00 AN</text></g>
+      <g class="matrix" style="animation-duration:9s;animation-delay:-5s" transform="translate(840,0)"><text x="0" y="0">0 1 0 1 1 0</text></g>
+    </g>
+  </g>
+
+  <!-- terminal window -->
+  <g>
+    <rect x="28" y="34" width="844" height="272" rx="12" fill="#0a0f14" fill-opacity="0.82" stroke="#27ae60" stroke-opacity="0.55" stroke-width="1.5"/>
+    <rect x="28" y="34" width="844" height="272" rx="12" fill="none" stroke="#27ae60" stroke-opacity="0.25" stroke-width="6" filter="url(#soft)"/>
+    <!-- title bar -->
+    <rect x="28" y="34" width="844" height="34" rx="12" fill="#0d1117"/>
+    <rect x="28" y="56" width="844" height="12" fill="#0d1117"/>
+    <line x1="28" y1="68" x2="872" y2="68" stroke="#27ae60" stroke-opacity="0.3"/>
+    <circle cx="50" cy="51" r="5.5" fill="#ff5f56"/>
+    <circle cx="70" cy="51" r="5.5" fill="#ffbd2e"/>
+    <circle cx="90" cy="51" r="5.5" fill="#27c93f"/>
+    <text x="450" y="55" text-anchor="middle" font-size="12.5" fill="#7fd8a0" opacity="0.85">root@kryptbakar: ~/portfolio — zsh — 84×24</text>
+  </g>
+
+  <!-- typed line 1 -->
+  <g clip-path="url(#clip1)" font-size="15">
+    <text x="60" y="101" fill="#27c93f">$</text>
+    <text x="78" y="101" fill="#d7e6dd">./deploy --profile <tspan fill="#5ff08a">abubakar</tspan> --mode legend</text>
+  </g>
+  <!-- boot output (fades in) -->
+  <g font-size="13.5" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="1.6s" fill="freeze"/>
+    <text x="60" y="124" fill="#56707f">[<tspan fill="#27c93f">  OK  </tspan>] mounting <tspan fill="#9dffc0">wireless-security.ko</tspan> · secrecy_capacity online</text>
+    <text x="60" y="143" fill="#56707f">[<tspan fill="#27c93f">  OK  </tspan>] DQN agent ready · artificial-noise allocator armed</text>
+  </g>
+
+  <!-- BIG NAME with glitch layers -->
+  <g class="name">
+    <text class="gl-c" x="60" y="200" font-size="46" font-weight="800" fill="#21d4fd" filter="url(#glow)" letter-spacing="2">MUHAMMAD ABUBAKAR</text>
+    <text class="gl-r" x="60" y="200" font-size="46" font-weight="800" fill="#ff2e63" filter="url(#glow)" letter-spacing="2">MUHAMMAD ABUBAKAR</text>
+    <text         x="60" y="200" font-size="46" font-weight="800" fill="url(#green)" filter="url(#glow)" letter-spacing="2">MUHAMMAD ABUBAKAR</text>
+  </g>
+  <!-- role chip -->
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="3s" fill="freeze"/>
+    <rect x="60" y="214" width="300" height="22" rx="11" fill="#27ae60" fill-opacity="0.12" stroke="#27ae60" stroke-opacity="0.5"/>
+    <text x="74" y="229" font-size="12.5" fill="#9dffc0" letter-spacing="1">PHYSICAL-LAYER WIRELESS SECURITY · GIKI '27</text>
+  </g>
+
+  <!-- typed line 2 -->
+  <g clip-path="url(#clip2)" font-size="15">
+    <text x="60" y="265" fill="#27c93f">$</text>
+    <text x="78" y="265" fill="#d7e6dd">whoami<tspan fill="#56707f"> →</tspan> <tspan fill="#5ff08a">AppSec</tspan> · <tspan fill="#5ff08a">DevSecOps</tspan> · <tspan fill="#5ff08a">ML-Security</tspan> · <tspan fill="#5ff08a">Pentest</tspan></text>
+  </g>
+  <!-- blinking cursor -->
+  <rect class="blink" x="555" y="252" width="9" height="17" fill="#5ff08a">
+    <animate attributeName="x" values="555;555" dur="0.1s" begin="5.2s"/>
+  </rect>
+
+  <!-- overlays -->
+  <rect width="900" height="340" rx="14" fill="url(#scan)" class="scanmv" pointer-events="none"/>
+  <rect width="900" height="340" rx="14" fill="#9dffc0" class="flicker" opacity="0.18" style="mix-blend-mode:overlay" pointer-events="none"/>
+  <rect width="900" height="340" rx="14" fill="url(#vign)" pointer-events="none"/>
+  <rect x="0.75" y="0.75" width="898.5" height="338.5" rx="13" fill="none" stroke="#27ae60" stroke-opacity="0.4" stroke-width="1.5"/>
+</svg>
