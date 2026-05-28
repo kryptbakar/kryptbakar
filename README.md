@@ -9,13 +9,7 @@
 
 <!-- ░░░ HERO: hand-authored animated CRT terminal (./assets/header.svg) ░░░ -->
 <a href="https://creativefolio-nine.vercel.app/">
-<text x="452" y="187" ...>
-  <animate attributeName="x" 
-           values="452;456;450;452;454;452" 
-           dur="0.4s" 
-           repeatCount="indefinite"/>
-  MUHAMMAD ABUBAKAR
-</text>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:27AE60&height=250&section=header&text=MUHAMMAD%20ABUBAKAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20Researcher%20%7C%20AppSec%20Engineer%20%7C%20GIKI%20'27&descAlignY=62&descSize=18&descColor=27AE60&stroke=27AE60&strokeWidth=2" />
 </a>
 
 <br/>
