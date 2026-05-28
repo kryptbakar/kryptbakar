@@ -9,7 +9,7 @@
 
 <!-- ░░░ HERO: hand-authored animated CRT terminal (./assets/header.svg) ░░░ -->
 <a href="https://creativefolio-nine.vercel.app/">
- alt="Muhammad Abubakar — Cyber Security Researcher" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0D2818,100:27AE60&height=220&section=header&text=Muhammad%20Abubakar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Researcher%20%7C%20AppSec%20Engineer%20%7C%20GIKI%20%272027&descAlignY=58&descSize=17&descColor=a8d5b5" />
 </a>
 
 <br/>
