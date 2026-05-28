@@ -9,7 +9,7 @@
 
 <!-- ░░░ HERO: hand-authored animated CRT terminal (./assets/header.svg) ░░░ -->
 <a href="https://creativefolio-nine.vercel.app/">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:27AE60&height=250&section=header&text=MUHAMMAD%20ABUBAKAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cyber%20Security%20Researcher%20%7C%20AppSec%20Engineer%20%7C%20GIKI%20'27&descAlignY=62&descSize=18&descColor=27AE60&stroke=27AE60&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:27AE60&height=250&section=header&text=MUHAMMAD%20ABUBAKAR&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Cyber%20Security%20Researcher%20%7C%20AppSec%20Engineer%20%7C%20GIKI%20'27&descAlignY=65&descSize=18&descColor=a8d5b5&stroke=27AE60&strokeWidth=2" />
 </a>
 
 <br/>
