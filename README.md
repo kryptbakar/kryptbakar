@@ -3,17 +3,16 @@
   ║  kryptbakar · GitHub profile README                                    ║
   ║  SETUP (read once):                                                     ║
   ║   1. Repo must be named EXACTLY  kryptbakar  (it becomes your profile)  ║
-  ║   2. Put hero.svg, arsenal-radar.svg, secrecy-gain.svg in  /assets      ║
-  ║   3. Default branch assumed  main  — if yours is  master, swap          ║
-  ║      every  /main/  below for  /master/  in the 3 SVG image URLs        ║
-  ║   4. Snake graph needs the included workflow (see snake-workflow.yml)    ║
+  ║   2. hero.svg, arsenal-radar.svg, secrecy-gain.svg live at repo ROOT     ║
+  ║   3. Branch  main  — SVG URLs already use /main/                         ║
+  ║   4. Snake graph needs the workflow at  .github/workflows/snake.yml      ║
   ║   5. Fill in the 4 social links marked  <!-- EDIT -->                    ║
   ╚══════════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/assets/hero.svg" width="100%" alt="Muhammad Abubakar — Cyber Security Researcher · AppSec Engineer · GIKI '27" />
+<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/hero.svg" width="100%" alt="Muhammad Abubakar — Cyber Security Researcher · AppSec Engineer · GIKI '27" />
 
 <br/>
 
@@ -74,7 +73,7 @@ Motto     : model it · break it · patch it · prove it
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/assets/arsenal-radar.svg" width="62%" alt="skill radar — offensive vs defensive" />
+<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/arsenal-radar.svg" width="62%" alt="skill radar — offensive vs defensive" />
 
 </div>
 
@@ -84,7 +83,7 @@ Motto     : model it · break it · patch it · prove it
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/assets/secrecy-gain.svg" width="94%" alt="physical-layer secrecy optimization — +0.299 bits/s/Hz gain" />
+<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/secrecy-gain.svg" width="94%" alt="physical-layer secrecy optimization — +0.299 bits/s/Hz gain" />
 
 </div>
 
