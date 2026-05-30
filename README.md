@@ -1,14 +1,4 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════════════╗
-  ║  kryptbakar · GitHub profile README  (holographic / synthwave build)   ║
-  ║  SETUP (read once):                                                     ║
-  ║   1. Repo must be named EXACTLY  kryptbakar  (it becomes your profile)  ║
-  ║   2. hero.svg, arsenal-radar.svg, secrecy-gain.svg live at repo ROOT     ║
-  ║   3. Branch  main  — SVG URLs already use /main/                         ║
-  ║   4. Snake graph needs the workflow at  .github/workflows/snake.yml      ║
-  ║   5. Fill in the 4 social links marked  <!-- EDIT -->                    ║
-  ╚══════════════════════════════════════════════════════════════════════╝
--->
+
 
 <div align="center">
 
