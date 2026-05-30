@@ -7,8 +7,6 @@
   ║   3. Branch  main  — SVG URLs already use /main/                         ║
   ║   4. Snake graph needs the workflow at  .github/workflows/snake.yml      ║
   ║   5. Fill in the 4 social links marked  <!-- EDIT -->                    ║
-  ╚══════════════════════════════════════════════════════════════════════╝
--->
 
 <div align="center">
 
