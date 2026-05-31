@@ -665,3 +665,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-05-31T19:00:59 — Clarify wording
 - 2026-05-31T10:14:23 — Clarify wording
 - 2026-05-31T19:56:26 — Minor formatting cleanup
+- 2026-05-31T18:09:25 — Tweak layout
