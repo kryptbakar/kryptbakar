@@ -105,13 +105,11 @@ Motto     : model it · break it · patch it · prove it
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kryptbakar&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0c0220&title_color=00f0ff&text_color=e6d8ff&icon_color=ff2d95&ring_color=b026ff" alt="github stats" />
-&nbsp;
-<img height="170" src="https://streak-stats.demolab.com?user=kryptbakar&hide_border=true&background=0c0220&border=3a1d63&ring=00f0ff&fire=ff2d95&currStreakLabel=00f0ff&sideLabels=e6d8ff&dates=a98fd0&currStreakNum=e6d8ff&sideNums=e6d8ff&dayLabels=a98fd0&excludeDaysLabel=a98fd0" alt="streak" />
+<img height="170" src="https://streak-stats.demolab.com?user=kryptbakar&hide_border=true&background=0c0220&border=3a1d63&ring=00f0ff&fire=ff2d95&currStreakLabel=00f0ff&sideLabels=e6d8ff&dates=a98fd0&currStreakNum=e6d8ff&sideNums=e6d8ff&dayLabels=a98fd0" alt="streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kryptbakar&layout=compact&hide_border=true&langs_count=8&bg_color=0c0220&title_color=00f0ff&text_color=e6d8ff" alt="top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kryptbakar&layout=donut&hide_border=true&langs_count=8&bg_color=0c0220&title_color=00f0ff&text_color=e6d8ff" alt="top languages" />
 
 </div>
 
@@ -121,7 +119,7 @@ Motto     : model it · break it · patch it · prove it
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kryptbakar&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=kryptbakar&theme=darkhub&no-frame=true&margin-w=4&column=7" alt="trophies" />
 
 </div>
 
