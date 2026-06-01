@@ -668,3 +668,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-05-31T18:09:25 — Tweak layout
 - 2026-05-31T11:28:13 — Update project journal
 - 2026-05-31T11:54:27 — Routine maintenance
+- 2026-06-01T12:50:12 — Update notes
