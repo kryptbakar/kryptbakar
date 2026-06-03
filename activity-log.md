@@ -682,3 +682,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-01T14:30:56 — Reorganize section headings
 - 2026-06-01T19:28:53 — Review and tidy files
 - 2026-06-01T18:46:32 — Update project journal
+- 2026-06-03T10:23:47 — Reorganize section headings
