@@ -693,3 +693,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-06T19:02:48 — Small housekeeping update
 - 2026-06-06T18:38:10 — Review and tidy files
 - 2026-06-06T16:38:02 — Tweak layout
+- 2026-06-06T09:21:43 — Tidy up documentation wording
