@@ -718,3 +718,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-08T10:04:33 — Update notes
 - 2026-06-09T15:01:49 — Refresh activity log
 - 2026-06-09T09:27:01 — Fix a typo
+- 2026-06-09T17:06:18 — Tidy up documentation wording
