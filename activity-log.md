@@ -732,3 +732,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-11T17:12:46 — Refresh activity log
 - 2026-06-11T16:13:03 — Clarify wording
 - 2026-06-11T12:53:57 — Update notes
+- 2026-06-11T17:21:43 — Update dependencies note
