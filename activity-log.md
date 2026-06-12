@@ -739,3 +739,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-12T14:30:44 — Update project journal
 - 2026-06-12T19:59:44 — Minor formatting cleanup
 - 2026-06-12T16:42:21 — Add a daily progress note
+- 2026-06-12T14:13:27 — Clarify wording
