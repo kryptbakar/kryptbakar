@@ -740,3 +740,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-12T19:59:44 — Minor formatting cleanup
 - 2026-06-12T16:42:21 — Add a daily progress note
 - 2026-06-12T14:13:27 — Clarify wording
+- 2026-06-12T10:25:08 — Tweak layout
