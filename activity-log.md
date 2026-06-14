@@ -745,3 +745,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-14T16:47:36 — Tidy up documentation wording
 - 2026-06-14T10:44:07 — Tidy up documentation wording
 - 2026-06-14T14:48:31 — Add a daily progress note
+- 2026-06-14T18:43:57 — Polish README references
