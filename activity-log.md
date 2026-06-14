@@ -743,3 +743,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-12T10:25:08 — Tweak layout
 - 2026-06-14T15:46:53 — Add a daily progress note
 - 2026-06-14T16:47:36 — Tidy up documentation wording
+- 2026-06-14T10:44:07 — Tidy up documentation wording
