@@ -753,3 +753,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-17T18:52:32 — Review and tidy files
 - 2026-06-17T17:29:35 — Update notes
 - 2026-06-17T10:02:45 — Add a daily progress note
+- 2026-06-17T10:53:27 — Clarify wording
