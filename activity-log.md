@@ -766,3 +766,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-17T13:59:44 — Review and tidy files
 - 2026-06-17T10:19:43 — Update project journal
 - 2026-06-17T12:30:28 — Minor formatting cleanup
+- 2026-06-17T18:05:03 — Update dependencies note
