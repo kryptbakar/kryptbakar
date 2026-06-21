@@ -780,3 +780,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-21T19:25:35 — Polish README references
 - 2026-06-21T18:12:19 — Tidy up documentation wording
 - 2026-06-21T09:23:35 — Tidy up documentation wording
+- 2026-06-21T15:02:00 — Reorganize section headings
