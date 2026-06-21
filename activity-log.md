@@ -772,3 +772,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-19T19:05:31 — Clarify wording
 - 2026-06-19T17:47:59 — Polish README references
 - 2026-06-19T13:20:43 — Refresh activity log
+- 2026-06-21T14:02:24 — Tweak layout
