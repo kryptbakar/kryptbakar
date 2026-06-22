@@ -793,3 +793,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-22T13:18:19 — Tweak layout
 - 2026-06-22T11:16:48 — Minor formatting cleanup
 - 2026-06-22T17:50:08 — Tweak layout
+- 2026-06-22T14:06:37 — Reorganize section headings
