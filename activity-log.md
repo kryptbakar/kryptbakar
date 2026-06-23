@@ -798,3 +798,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-23T13:58:08 — Tidy up documentation wording
 - 2026-06-23T16:48:15 — Reorganize section headings
 - 2026-06-23T16:16:47 — Update dependencies note
+- 2026-06-23T11:39:27 — Clarify wording
