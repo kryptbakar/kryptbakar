@@ -807,3 +807,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-24T14:06:43 — Tweak layout
 - 2026-06-24T09:59:21 — Update dependencies note
 - 2026-06-24T18:03:56 — Tweak layout
+- 2026-06-24T14:45:57 — Tidy up documentation wording
