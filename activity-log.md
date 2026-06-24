@@ -809,3 +809,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-24T18:03:56 — Tweak layout
 - 2026-06-24T14:45:57 — Tidy up documentation wording
 - 2026-06-24T15:46:31 — Fix a typo
+- 2026-06-24T14:13:25 — Clarify wording
