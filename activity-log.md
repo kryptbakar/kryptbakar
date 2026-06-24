@@ -810,3 +810,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-24T14:45:57 — Tidy up documentation wording
 - 2026-06-24T15:46:31 — Fix a typo
 - 2026-06-24T14:13:25 — Clarify wording
+- 2026-06-24T14:18:43 — Update notes
