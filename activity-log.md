@@ -813,3 +813,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-24T14:18:43 — Update notes
 - 2026-06-25T17:18:05 — Add a daily progress note
 - 2026-06-25T11:45:32 — Update project journal
+- 2026-06-25T18:54:43 — Polish README references
