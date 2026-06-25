@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/hero.svg" width="100%" alt="Muhammad Abubakar — Cyber Security Researcher · AppSec Engineer · GIKI '27" />
@@ -20,14 +18,14 @@
 
 <br/><br/>
 
-<!-- EDIT the 4 links below -->
-<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0c0220?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="linkedin" /></a>
+<!-- connect -->
+<a href="https://www.linkedin.com/in/muhammad-abubakar-28b4a2312/"><img src="https://img.shields.io/badge/LinkedIn-0c0220?style=for-the-badge&logo=linkedin&logoColor=00f0ff" alt="linkedin" /></a>
 &nbsp;
 <a href="https://github.com/kryptbakar"><img src="https://img.shields.io/badge/GitHub-0c0220?style=for-the-badge&logo=github&logoColor=ff2d95" alt="github" /></a>
 &nbsp;
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0c0220?style=for-the-badge&logo=gmail&logoColor=b026ff" alt="email" /></a>
+<a href="mailto:abubakaramirwork@gmail.com"><img src="https://img.shields.io/badge/Email-0c0220?style=for-the-badge&logo=gmail&logoColor=b026ff" alt="email" /></a>
 &nbsp;
-<a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-0c0220?style=for-the-badge&logo=x&logoColor=39ff14" alt="x" /></a>
+<a href="https://kryptbakar.github.io/Portfolio-/"><img src="https://img.shields.io/badge/Portfolio-0c0220?style=for-the-badge&logo=githubpages&logoColor=39ff14" alt="portfolio" /></a>
 
 </div>
 
