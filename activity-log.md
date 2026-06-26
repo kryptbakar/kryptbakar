@@ -826,3 +826,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-26T14:23:31 — Update notes
 - 2026-06-26T18:17:21 — Update notes
 - 2026-06-26T17:22:43 — Tidy up documentation wording
+- 2026-06-26T17:53:56 — Tweak layout
