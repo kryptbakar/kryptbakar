@@ -829,3 +829,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-26T17:53:56 — Tweak layout
 - 2026-06-26T18:37:51 — Reorganize section headings
 - 2026-06-26T15:48:48 — Small housekeeping update
+- 2026-06-26T14:48:26 — Fix a typo
