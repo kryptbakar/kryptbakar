@@ -832,3 +832,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-26T14:48:26 — Fix a typo
 - 2026-06-27T15:57:44 — Update notes
 - 2026-06-27T15:11:41 — Tidy up documentation wording
+- 2026-06-27T11:01:58 — Review and tidy files
