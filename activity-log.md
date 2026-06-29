@@ -853,3 +853,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-28T12:27:42 — Review and tidy files
 - 2026-06-28T18:44:21 — Small housekeeping update
 - 2026-06-28T16:52:49 — Update dependencies note
+- 2026-06-29T09:52:01 — Clarify wording
