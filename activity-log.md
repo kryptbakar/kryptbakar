@@ -859,3 +859,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-06-29T15:13:50 — Review and tidy files
 - 2026-06-30T12:51:34 — Update dependencies note
 - 2026-06-30T17:13:07 — Routine maintenance
+- 2026-06-30T16:25:04 — Clarify wording
