@@ -67,6 +67,42 @@ Motto     : model it · break it · patch it · prove it
 
 ---
 
+## `> ./projects.sh --featured`
+
+<div align="center">
+
+### 🛡️ [PentAI](https://github.com/kryptbakar/PentAI) — Autonomous, authorization-first web pentesting
+
+<a href="https://github.com/kryptbakar/PentAI">
+  <img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/pentai-preview.png" width="88%" alt="PentAI — one-click penetration testing console" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/TypeScript-0c0220?style=for-the-badge&logo=typescript&logoColor=00f0ff" alt="typescript" />
+&nbsp;
+<img src="https://img.shields.io/badge/React%2019-0c0220?style=for-the-badge&logo=react&logoColor=ff2d95" alt="react" />
+&nbsp;
+<img src="https://img.shields.io/badge/Express%205-0c0220?style=for-the-badge&logo=express&logoColor=b026ff" alt="express" />
+&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL%20·%20Drizzle-0c0220?style=for-the-badge&logo=postgresql&logoColor=00f0ff" alt="postgres" />
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-0c0220?style=for-the-badge&logo=docker&logoColor=ff2d95" alt="docker" />
+&nbsp;
+<img src="https://img.shields.io/badge/OpenAPI-0c0220?style=for-the-badge&logo=openapiinitiative&logoColor=39ff14" alt="openapi" />
+
+</div>
+
+> **Enter a URL → get a pentest.** PentAI provisions an authorized engagement scope and
+> runs the full recon → vulnerability toolchain — `subfinder` · `httpx` · `nmap` · `nuclei` —
+> behind a **hard authorization gate**: no scan runs without an allow-listed target, active
+> rules-of-engagement, and a valid time window, and every attempt (allowed *or* denied) hits
+> an **append-only audit log**. Real containerised tools, live severity analytics, and a
+> premium security-ops console. Contract-first TypeScript monorepo — one OpenAPI spec drives
+> both the server validators and the client hooks, so types never drift.
+
+---
+
 ## `> cat research/spotlight.md`
 
 <div align="center">
