@@ -868,3 +868,4 @@ A running log of daily maintenance and small updates to this repository.
 - 2026-07-02T17:24:07 — Polish README references
 - 2026-07-02T15:48:39 — Fix a typo
 - 2026-07-02T18:34:05 — Minor formatting cleanup
+- 2026-07-03T17:34:10 — Clarify wording
