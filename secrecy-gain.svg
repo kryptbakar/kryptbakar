@@ -1,45 +1,33 @@
-<svg width="100%" viewBox="0 0 760 360" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 760 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Physical-layer secrecy optimization — +0.299 bits/s/Hz gain">
   <defs>
     <linearGradient id="optstroke" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00f0ff"/>
-      <stop offset="100%" stop-color="#ff2d95"/>
+      <stop offset="0%"   stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#56d4dd"/>
     </linearGradient>
     <linearGradient id="optfill" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#ff2d95" stop-opacity="0.30"/>
-      <stop offset="100%" stop-color="#00f0ff" stop-opacity="0"/>
+      <stop offset="0%"   stop-color="#58a6ff" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="holo2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00f0ff">
-        <animate attributeName="stop-color" values="#00f0ff;#ff2d95;#39ff14;#00f0ff" dur="5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#ff2d95">
-        <animate attributeName="stop-color" values="#ff2d95;#39ff14;#00f0ff;#ff2d95" dur="5s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <filter id="g3" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
     <style>
-      .ttl  { fill:#f3e9ff; font:700 16px 'Segoe UI',system-ui,sans-serif; }
-      .sub  { fill:#a98fd0; font:11px 'Courier New',monospace; }
-      .axl  { fill:#b9a6dc; font:11px 'Courier New',monospace; }
-      .leg  { fill:#e6d8ff; font:11.5px 'Courier New',monospace; }
+      .ttl  { fill:#e6edf3; font:700 16px 'Segoe UI',system-ui,sans-serif; }
+      .sub  { fill:#8b949e; font:11px ui-monospace,'Courier New',monospace; }
+      .axl  { fill:#768390; font:11px ui-monospace,'Courier New',monospace; }
+      .leg  { fill:#c9d1d9; font:11.5px ui-monospace,'Courier New',monospace; }
       .big  { font:800 30px 'Segoe UI',system-ui,sans-serif; }
-      .bigl { fill:#c9b6ec; font:11px 'Courier New',monospace; letter-spacing:1px; }
+      .bigl { fill:#8b949e; font:11px ui-monospace,'Courier New',monospace; letter-spacing:1px; }
     </style>
   </defs>
 
-  <rect x="6" y="6" width="748" height="348" rx="14" fill="#0c0220" stroke="#3a1d63" stroke-width="1.2"/>
+  <rect x="6" y="6" width="748" height="348" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.2"/>
 
   <text x="28" y="40" class="ttl">Physical-Layer Secrecy Optimization</text>
   <text x="28" y="58" class="sub">secrecy rate vs. transmit SNR &#8212; adaptive vs. fixed power / subcarrier allocation</text>
 
-  <g stroke="#2a1550" stroke-width="1">
+  <g stroke="#21262d" stroke-width="1">
     <line x1="70" y1="216.7" x2="700" y2="216.7"/>
     <line x1="70" y1="143.3" x2="700" y2="143.3"/>
   </g>
-  <g stroke="#5a3a8e" stroke-width="1.5">
+  <g stroke="#30363d" stroke-width="1.5">
     <line x1="70" y1="290" x2="700" y2="290"/>
     <line x1="70" y1="70"  x2="70"  y2="290"/>
   </g>
@@ -60,36 +48,36 @@
   </path>
 
   <path d="M70,284.5 C122.5,284.5 122.5,255.2 175,255.2 C227.5,255.2 227.5,222.2 280,222.2 C332.5,222.2 332.5,196.5 385,196.5 C437.5,196.5 437.5,176.3 490,176.3 C542.5,176.3 542.5,163.5 595,163.5 C647.5,163.5 647.5,157.3 700,157.3"
-        fill="none" stroke="#9a6bff" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100">
+        fill="none" stroke="#6e7681" stroke-width="2.5" stroke-linecap="round" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100">
     <animate attributeName="stroke-dashoffset" from="100" to="0" dur="1.6s" fill="freeze"/>
     <set attributeName="stroke-dasharray" to="6 5" begin="1.6s" fill="freeze"/>
   </path>
 
   <path d="M70,279 C122.5,279 122.5,244.2 175,244.2 C227.5,244.2 227.5,209.3 280,209.3 C332.5,209.3 332.5,183.7 385,183.7 C437.5,183.7 437.5,165.3 490,165.3 C542.5,165.3 542.5,152.9 595,152.9 C647.5,152.9 647.5,146.3 700,146.3"
-        fill="none" stroke="url(#optstroke)" stroke-width="3.2" stroke-linecap="round" filter="url(#g3)" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100">
+        fill="none" stroke="url(#optstroke)" stroke-width="3" stroke-linecap="round" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100">
     <animate attributeName="stroke-dashoffset" from="100" to="0" dur="1.6s" begin="0.25s" fill="freeze"/>
   </path>
 
   <g opacity="0">
     <animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.1s" fill="freeze"/>
-    <line x1="490" y1="176.3" x2="490" y2="165.3" stroke="#ff2d95" stroke-width="2.5"/>
-    <polygon points="490,164 486,170 494,170" fill="#ff2d95"/>
-    <polygon points="490,177.6 486,171.6 494,171.6" fill="#ff2d95"/>
-    <circle cx="490" cy="176.3" r="3.5" fill="#9a6bff"/>
-    <circle cx="490" cy="165.3" r="3.5" fill="#00f0ff"/>
-    <line x1="490" y1="170.8" x2="540" y2="120" stroke="#ff2d95" stroke-width="1" stroke-dasharray="3 3"/>
+    <line x1="490" y1="176.3" x2="490" y2="165.3" stroke="#56d4dd" stroke-width="2.5"/>
+    <polygon points="490,164 486,170 494,170" fill="#56d4dd"/>
+    <polygon points="490,177.6 486,171.6 494,171.6" fill="#56d4dd"/>
+    <circle cx="490" cy="176.3" r="3.5" fill="#6e7681"/>
+    <circle cx="490" cy="165.3" r="3.5" fill="#58a6ff"/>
+    <line x1="490" y1="170.8" x2="540" y2="120" stroke="#56d4dd" stroke-width="1" stroke-dasharray="3 3"/>
   </g>
 
   <g transform="translate(545,108)" opacity="0">
     <animate attributeName="opacity" values="0;1" dur="0.6s" begin="2.35s" fill="freeze"/>
-    <text x="0" y="0" class="big" fill="url(#holo2)" filter="url(#g3)">+0.299</text>
+    <text x="0" y="0" class="big" fill="#56d4dd">+0.299</text>
     <text x="2" y="16" class="bigl">bits/s/Hz secrecy gain</text>
   </g>
 
   <g transform="translate(95,92)">
-    <line x1="0" y1="0" x2="22" y2="0" stroke="#22e0ff" stroke-width="3.2"/>
+    <line x1="0" y1="0" x2="22" y2="0" stroke="#58a6ff" stroke-width="3"/>
     <text x="28" y="4" class="leg">Adaptive (optimized)</text>
-    <line x1="0" y1="18" x2="22" y2="18" stroke="#9a6bff" stroke-width="2.5" stroke-dasharray="6 5"/>
+    <line x1="0" y1="18" x2="22" y2="18" stroke="#6e7681" stroke-width="2.5" stroke-dasharray="6 5"/>
     <text x="28" y="22" class="leg">Fixed allocation</text>
   </g>
 </svg>
