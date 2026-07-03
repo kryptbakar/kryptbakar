@@ -32,6 +32,12 @@
 > [!NOTE]
 > **`mission`** → build software that is *measurably* harder to compromise. I don't stop at finding the bug — I **model it, reproduce it, and engineer it out of the pipeline.**
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/highlights.svg" width="100%" alt="by the numbers — CGPA 3.3, 2× Dean's List, 2× internships, +0.299 bits/s/Hz, 5 projects, 4 certifications" />
+
+</div>
+
 ---
 
 ## `> whoami`
@@ -104,6 +110,12 @@ Motto     : model it · reproduce it · patch it · prove it
 <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=56d4dd" alt="docker" />
 &nbsp;
 <img src="https://img.shields.io/badge/OpenAPI-0d1117?style=for-the-badge&logo=openapiinitiative&logoColor=3fb950" alt="openapi" />
+
+<br/><br/>
+
+<a href="https://github.com/kryptbakar/PentAI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kryptbakar&repo=PentAI&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=56d4dd&border_color=30363d&hide_border=false" alt="PentAI repository card" />
+</a>
 
 </div>
 
@@ -234,11 +246,31 @@ Hybrid **CatBoost + LOF** detector pairing supervised classification with unsupe
 
 <div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kryptbakar&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=56d4dd" alt="github stats" />
+&nbsp;
 <img height="170" src="https://streak-stats.demolab.com?user=kryptbakar&hide_border=true&background=0d1117&border=30363d&ring=58a6ff&fire=56d4dd&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dayLabels=8b949e" alt="streak" />
 
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kryptbakar&layout=donut&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=56d4dd" alt="top languages" />
+
+</div>
+
+---
+
+## `> analytics --summary`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kryptbakar&theme=github_dark" alt="repos per language" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kryptbakar&theme=github_dark" alt="most used language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kryptbakar&theme=github_dark" alt="profile stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kryptbakar&theme=github_dark&utcOffset=5" alt="productive time" />
 
 </div>
 
@@ -264,6 +296,24 @@ Hybrid **CatBoost + LOF** detector pairing supervised classification with unsupe
 
 <!-- Snake graph — powered by the workflow at .github/workflows/snake.yml -->
 <img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/output/snake.svg" width="100%" alt="contribution snake eating the graph" />
+
+</div>
+
+---
+
+## `> ./connect.sh`
+
+<div align="center">
+
+**Open to security roles, research collaborations, and CTF teams.** Let's talk.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/muhammad-abubakar-28b4a2312/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="linkedin" /></a>
+&nbsp;
+<a href="mailto:abubakaramirwork@gmail.com"><img src="https://img.shields.io/badge/Send%20an%20Email-0d1117?style=for-the-badge&logo=gmail&logoColor=56d4dd" alt="email" /></a>
+&nbsp;
+<a href="https://kryptbakar.github.io/AbubakarPortfolio-/"><img src="https://img.shields.io/badge/View%20Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=3fb950" alt="portfolio" /></a>
 
 </div>
 

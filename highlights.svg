@@ -1,0 +1,55 @@
+<svg width="100%" viewBox="0 0 1000 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="By the numbers — key highlights">
+  <defs>
+    <style>
+      .ttl { fill:#8b949e; font:12px ui-monospace,'SF Mono','Courier New',monospace; letter-spacing:2px; }
+      .num { font:700 30px 'Segoe UI',system-ui,-apple-system,sans-serif; }
+      .nums{ font:700 21px 'Segoe UI',system-ui,-apple-system,sans-serif; }
+      .unit{ fill:#768390; font:600 14px 'Segoe UI',system-ui,sans-serif; }
+      .lbl { fill:#768390; font:600 10px ui-monospace,'SF Mono','Courier New',monospace; letter-spacing:1.2px; }
+    </style>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="998.5" height="168.5" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <text x="30" y="32" class="ttl">// by the numbers</text>
+
+  <!-- dividers -->
+  <g stroke="#21262d" stroke-width="1">
+    <line x1="193" y1="60" x2="193" y2="140"/>
+    <line x1="347" y1="60" x2="347" y2="140"/>
+    <line x1="500" y1="60" x2="500" y2="140"/>
+    <line x1="653" y1="60" x2="653" y2="140"/>
+    <line x1="807" y1="60" x2="807" y2="140"/>
+  </g>
+
+  <g>
+    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.2s" fill="freeze"/>
+
+    <!-- 1: CGPA -->
+    <text x="116" y="108" class="num" fill="#58a6ff" text-anchor="middle">3.3<tspan class="unit"> /4.0</tspan></text>
+    <text x="116" y="130" class="lbl" text-anchor="middle">CGPA</text>
+
+    <!-- 2: Dean's List -->
+    <text x="270" y="108" class="num" fill="#56d4dd" text-anchor="middle">2&#215;</text>
+    <text x="270" y="126" class="lbl" text-anchor="middle">DEAN'S HONOR</text>
+    <text x="270" y="138" class="lbl" text-anchor="middle">LIST</text>
+
+    <!-- 3: Internships -->
+    <text x="423" y="108" class="num" fill="#58a6ff" text-anchor="middle">2&#215;</text>
+    <text x="423" y="126" class="lbl" text-anchor="middle">SECURITY</text>
+    <text x="423" y="138" class="lbl" text-anchor="middle">INTERNSHIPS</text>
+
+    <!-- 4: Secrecy gain -->
+    <text x="576" y="106" class="nums" fill="#56d4dd" text-anchor="middle">+0.299</text>
+    <text x="576" y="126" class="lbl" text-anchor="middle">BITS/S/HZ</text>
+    <text x="576" y="138" class="lbl" text-anchor="middle">SECRECY GAIN</text>
+
+    <!-- 5: Projects -->
+    <text x="730" y="108" class="num" fill="#58a6ff" text-anchor="middle">5</text>
+    <text x="730" y="126" class="lbl" text-anchor="middle">SECURITY</text>
+    <text x="730" y="138" class="lbl" text-anchor="middle">PROJECTS</text>
+
+    <!-- 6: Certifications -->
+    <text x="883" y="108" class="num" fill="#56d4dd" text-anchor="middle">4</text>
+    <text x="883" y="130" class="lbl" text-anchor="middle">CERTIFICATIONS</text>
+  </g>
+</svg>
