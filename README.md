@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/hero.svg?v=2" width="100%" alt="Muhammad Abubakar — Cyber Security Researcher · AppSec Engineer · GIKI '27" />
+<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/hero-pro.svg" width="100%" alt="Muhammad Abubakar — Cyber Security Researcher · AppSec Engineer · GIKI '27" />
 
 <br/>
 
@@ -75,7 +75,7 @@ Motto     : model it · reproduce it · patch it · prove it
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/arsenal-radar.svg?v=2" width="62%" alt="skill radar — offensive vs defensive" />
+<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/skill-radar.svg" width="62%" alt="skill radar — offensive vs defensive" />
 
 </div>
 
@@ -181,7 +181,7 @@ Hybrid **CatBoost + LOF** detector pairing supervised classification with unsupe
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/secrecy-gain.svg?v=2" width="94%" alt="physical-layer secrecy optimization — +0.299 bits/s/Hz gain" />
+<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/secrecy-chart.svg" width="94%" alt="physical-layer secrecy optimization — +0.299 bits/s/Hz gain" />
 
 </div>
 
