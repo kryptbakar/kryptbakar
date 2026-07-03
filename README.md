@@ -113,9 +113,13 @@ Motto     : model it · reproduce it · patch it · prove it
 
 <br/><br/>
 
-<a href="https://github.com/kryptbakar/PentAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kryptbakar&repo=PentAI&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=56d4dd&border_color=30363d&hide_border=false" alt="PentAI repository card" />
-</a>
+<a href="https://github.com/kryptbakar/PentAI"><img src="https://img.shields.io/github/stars/kryptbakar/PentAI?style=for-the-badge&logo=github&logoColor=58a6ff&label=Stars&labelColor=0d1117&color=1f6feb" alt="stars" /></a>
+&nbsp;
+<a href="https://github.com/kryptbakar/PentAI/network/members"><img src="https://img.shields.io/github/forks/kryptbakar/PentAI?style=for-the-badge&logo=github&logoColor=56d4dd&label=Forks&labelColor=0d1117&color=1f6feb" alt="forks" /></a>
+&nbsp;
+<img src="https://img.shields.io/github/last-commit/kryptbakar/PentAI?style=for-the-badge&logo=git&logoColor=56d4dd&label=Last%20Commit&labelColor=0d1117&color=1f6feb" alt="last commit" />
+&nbsp;
+<img src="https://img.shields.io/github/languages/top/kryptbakar/PentAI?style=for-the-badge&labelColor=0d1117&color=1f6feb" alt="top language" />
 
 </div>
 
@@ -280,7 +284,7 @@ Hybrid **CatBoost + LOF** detector pairing supervised classification with unsupe
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kryptbakar&theme=onedark&no-frame=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://raw.githubusercontent.com/kryptbakar/kryptbakar/main/achievements.svg" width="100%" alt="achievements — Dean's List, Google Cybersecurity, 2× intern, PHY-layer research, DevSecOps pipeline, 5 security projects" />
 
 </div>
 
