@@ -14,6 +14,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Dean's%20Honor%20List-GIKI%20·%205th%20%26%206th%20Sem-238636?style=for-the-badge&logo=googlescholar&logoColor=white" alt="deans list" />
 &nbsp;
+<img src="https://img.shields.io/badge/GitHub%20Developer%20Program-Member-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="github developer program member" />
+&nbsp;
 <img src="https://img.shields.io/badge/📍%20Lahore,%20Pakistan-0d1117?style=for-the-badge" alt="location" />
 
 <br/><br/>
